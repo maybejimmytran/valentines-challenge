@@ -4,3 +4,8 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+#snow{
+    width: 99vw;
+    height: 97vh;
+}
