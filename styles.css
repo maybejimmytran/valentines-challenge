@@ -5,7 +5,67 @@ body{
     background-attachment: fixed;
 }
 
-#snow{
-    width: 99vw;
-    height: 97vh;
+div {
+    position: absolute;
+}
+
+.snow-container {
+    width: 99%;
+    height: 99%;
+    
+    top: 0;
+    left: 0;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.star-container {
+    top: 10%;
+    left: 10%;
+    
+    width: 10%;
+    height: 20%;
+}
+
+.bench-container {
+    top: 70%;
+    left: 5%;
+    
+    width: 10%;
+    height: 20%;
+}
+
+.cloud-container {
+    top: 5%;
+    left: 50%;
+    
+    width: 12%;
+    height: 12%;
+}
+
+.dove-container {
+    top: 10%;
+    left: 50%;
+    
+    width: 12%;
+    height: 12%;
+}
+
+.flower-container {
+    top: 90%;
+    left: 90%;
+    
+    width: 5%;
+    height: 5%;
+}
+
+.sign-container {
+    top: 80%;
+    left: 60%;
+    
+    width: 12%;
+    height: 12%;
 }
